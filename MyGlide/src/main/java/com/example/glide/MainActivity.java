@@ -1,5 +1,6 @@
 package com.example.glide;
 
+import android.graphics.Bitmap;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -14,6 +15,8 @@ import com.bumptech.glide.request.RequestListener;
 import com.bumptech.glide.request.animation.GlideAnimation;
 import com.bumptech.glide.request.target.SimpleTarget;
 import com.bumptech.glide.request.target.Target;
+
+import java.util.concurrent.ExecutionException;
 
 // Glide特点
 // 使用简单,可配置度高,自适应程度高
@@ -120,5 +123,19 @@ public class MainActivity extends AppCompatActivity {
         //缓存的动态清理
         Glide.get(this).clearDiskCache();//清理磁盘缓存 需要在子线程中执行
         Glide.get(this).clearMemory();//清理内存缓存  可以在UI主线程中进行
+
+        //获得网络图片的bitmap对象,供其他地方调用
+        try {
+            Bitmap myBitmap = Glide.with(this)
+                    .load(imageUrl)
+                    .asBitmap() //必须
+                    .centerCrop()
+                    .into(500, 500)
+                    .get();
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        } catch (ExecutionException e) {
+            e.printStackTrace();
+        }
     }
 }

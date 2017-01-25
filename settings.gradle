@@ -1,1 +1,1 @@
-include ':AnimRefreshRecyclerView', ':MyRecyclerView', ':MyGlide', ':MVP', ':MyWebView', ':MyRealm', ':MyMVP', ':MyWeChat'
+include ':AnimRefreshRecyclerView', ':MyRecyclerView', ':MyGlide', ':MVP', ':MyWebView', ':MyRealm', ':MyMVP', ':MyWeChat', ':MyViewPage', ':MyFresco', ':FrescoBase', ':FrescoForHierarchy', ':FrescoForRound'
