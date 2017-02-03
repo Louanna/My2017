@@ -3,12 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnimRefreshRecyclerView/AnimRefreshRecyclerView.iml" filepath="$PROJECT_DIR$/AnimRefreshRecyclerView/AnimRefreshRecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrescoBase/FrescoBase.iml" filepath="$PROJECT_DIR$/FrescoBase/FrescoBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrescoForHierarchy/FrescoForHierarchy.iml" filepath="$PROJECT_DIR$/FrescoForHierarchy/FrescoForHierarchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrescoForRound/FrescoForRound.iml" filepath="$PROJECT_DIR$/FrescoForRound/FrescoForRound.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVP/MVP.iml" filepath="$PROJECT_DIR$/MVP/MVP.iml" />
       <module fileurl="file://$PROJECT_DIR$/My2017.iml" filepath="$PROJECT_DIR$/My2017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFresco/MyFresco.iml" filepath="$PROJECT_DIR$/MyFresco/MyFresco.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyGlide/MyGlide.iml" filepath="$PROJECT_DIR$/MyGlide/MyGlide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyJava8/MyJava8.iml" filepath="$PROJECT_DIR$/MyJava8/MyJava8.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyMVP/MyMVP.iml" filepath="$PROJECT_DIR$/MyMVP/MyMVP.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyRealm/MyRealm.iml" filepath="$PROJECT_DIR$/MyRealm/MyRealm.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyRecyclerView/MyRecyclerView.iml" filepath="$PROJECT_DIR$/MyRecyclerView/MyRecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyViewPage/MyViewPage.iml" filepath="$PROJECT_DIR$/MyViewPage/MyViewPage.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWeChat/MyWeChat.iml" filepath="$PROJECT_DIR$/MyWeChat/MyWeChat.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWebView/MyWebView.iml" filepath="$PROJECT_DIR$/MyWebView/MyWebView.iml" />
     </modules>

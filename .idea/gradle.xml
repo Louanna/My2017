@@ -9,11 +9,17 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AnimRefreshRecyclerView" />
+            <option value="$PROJECT_DIR$/FrescoBase" />
+            <option value="$PROJECT_DIR$/FrescoForHierarchy" />
+            <option value="$PROJECT_DIR$/FrescoForRound" />
             <option value="$PROJECT_DIR$/MVP" />
+            <option value="$PROJECT_DIR$/MyFresco" />
             <option value="$PROJECT_DIR$/MyGlide" />
+            <option value="$PROJECT_DIR$/MyJava8" />
             <option value="$PROJECT_DIR$/MyMVP" />
             <option value="$PROJECT_DIR$/MyRealm" />
             <option value="$PROJECT_DIR$/MyRecyclerView" />
+            <option value="$PROJECT_DIR$/MyViewPage" />
             <option value="$PROJECT_DIR$/MyWeChat" />
             <option value="$PROJECT_DIR$/MyWebView" />
           </set>
