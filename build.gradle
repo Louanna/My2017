@@ -18,6 +18,9 @@ buildscript {
 
         //使用lambda时添加
 //        classpath 'me.tatarka:gradle-retrolambda:3.2.0'
+
+        //使用LottieSample添加
+        classpath 'com.facebook.testing.screenshot:plugin:0.4.2'
     }
 }
 
