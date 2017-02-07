@@ -24,6 +24,7 @@
             <option value="$PROJECT_DIR$/MyViewPage" />
             <option value="$PROJECT_DIR$/MyWeChat" />
             <option value="$PROJECT_DIR$/MyWebView" />
+            <option value="$PROJECT_DIR$/RecycleViewSample" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

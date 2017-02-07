@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyViewPage/MyViewPage.iml" filepath="$PROJECT_DIR$/MyViewPage/MyViewPage.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWeChat/MyWeChat.iml" filepath="$PROJECT_DIR$/MyWeChat/MyWeChat.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWebView/MyWebView.iml" filepath="$PROJECT_DIR$/MyWebView/MyWebView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecycleViewSample/RecycleViewSample.iml" filepath="$PROJECT_DIR$/RecycleViewSample/RecycleViewSample.iml" />
     </modules>
   </component>
 </project>

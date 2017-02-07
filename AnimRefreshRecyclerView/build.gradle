@@ -38,10 +38,17 @@ dependencies {
 //    classifier = 'sources'
 //}
 //task javadoc(type: Javadoc) {
+//增加编码，这行很重要，如果是windows系统，同时如果在代码中有中文的话，不加这行，上传会报错
+//    options.encoding="utf-8"
 //    source = android.sourceSets.main.java.srcDirs
 //    classpath += project.files(android.getBootClasspath().join(File.pathSeparator))
 //}
+//task javadocJar(type: Jar, dependsOn: javadoc) {
+//    classifier = 'javadoc'
+//    from javadoc.destinationDir
+//}
 //artifacts {
+//    archives javadocJar
 //    archives sourcesJar
 //}
 //Properties properties = new Properties()
@@ -53,9 +60,12 @@ dependencies {
 //    pkg {
 //        repo = "maven"  //发布到Bintray的那个仓库里，默认账户有四个库，我们这里上传到maven库
 //        name = "AnimRefreshRecyclerView"  //发布到Bintray上的项目名字
+//        desc = "AnimRefreshRecyclerView"  //项目描述
 //        websiteUrl = siteUrl
 //        vcsUrl = gitUrl
+//        labels = ['android']  //标签
 //        licenses = ["Apache-2.0"]
 //        publish = true //是否发布
+//        publicDownloadNumbers = true
 //    }
 //}
