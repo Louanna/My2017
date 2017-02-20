@@ -25,6 +25,12 @@
             <option value="$PROJECT_DIR$/MyWeChat" />
             <option value="$PROJECT_DIR$/MyWebView" />
             <option value="$PROJECT_DIR$/RecycleViewSample" />
+            <option value="$PROJECT_DIR$/SplashApp" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/okgo" />
+            <option value="$PROJECT_DIR$/okgoApp" />
+            <option value="$PROJECT_DIR$/okrx" />
+            <option value="$PROJECT_DIR$/okserver" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,0 +1,60 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'maker'
+            keyPassword '1234make'
+            storeFile file('/Users/Nevermore/AndroidStudioProjects/Blog/jks/makeapp.jks')
+            storePassword 'make1234'
+        }
+    }
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+    defaultConfig {
+        applicationId 'com.example.makeapp'
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        debug {
+            minifyEnabled false
+            debuggable true
+        }
+
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.config
+            debuggable false
+        }
+    }
+    productFlavors {
+
+        /*   uc {}
+           _360 {}
+           baidu {}
+           yyb {}*/
+        xiaomi { applicationId 'com.xiaomi.makeapp' }
+        url {
+            applicationId 'com.host.makeapp'
+        }
+        urltest {
+            applicationId 'com.test.makeapp'
+        }
+        urlonline {
+            applicationId 'com.online.makeapp'
+        }
+    }
+    productFlavors.all { flavor ->
+        flavor.manifestPlaceholders = [UMENG_CHANNEL_VALUE: name]
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+//    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.3.0'
+}

@@ -20,6 +20,12 @@
       <module fileurl="file://$PROJECT_DIR$/MyWeChat/MyWeChat.iml" filepath="$PROJECT_DIR$/MyWeChat/MyWeChat.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWebView/MyWebView.iml" filepath="$PROJECT_DIR$/MyWebView/MyWebView.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecycleViewSample/RecycleViewSample.iml" filepath="$PROJECT_DIR$/RecycleViewSample/RecycleViewSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SplashApp/SplashApp.iml" filepath="$PROJECT_DIR$/SplashApp/SplashApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okgo/okgo.iml" filepath="$PROJECT_DIR$/okgo/okgo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okgoApp/okgoApp.iml" filepath="$PROJECT_DIR$/okgoApp/okgoApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okrx/okrx.iml" filepath="$PROJECT_DIR$/okrx/okrx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okserver/okserver.iml" filepath="$PROJECT_DIR$/okserver/okserver.iml" />
     </modules>
   </component>
 </project>

@@ -8,7 +8,7 @@ buildscript {
         //Realm
         classpath "io.realm:realm-gradle-plugin:2.3.0"
 
-        classpath 'com.android.tools.build:gradle:2.3.0-beta1'
+        classpath 'com.android.tools.build:gradle:2.2.0'
         //自动化maven打包插件
         classpath 'com.github.dcendents:android-maven-plugin:1.2'
         //自动上传至Bintray平台插件
