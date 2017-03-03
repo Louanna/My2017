@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/Lottie" />
             <option value="$PROJECT_DIR$/LottieSample" />
             <option value="$PROJECT_DIR$/MVP" />
+            <option value="$PROJECT_DIR$/MyBanner" />
             <option value="$PROJECT_DIR$/MyFresco" />
             <option value="$PROJECT_DIR$/MyGlide" />
             <option value="$PROJECT_DIR$/MyJava8" />
@@ -31,6 +32,7 @@
             <option value="$PROJECT_DIR$/okgoApp" />
             <option value="$PROJECT_DIR$/okrx" />
             <option value="$PROJECT_DIR$/okserver" />
+            <option value="$PROJECT_DIR$/rvbanner" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
