@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/MVP/MVP.iml" filepath="$PROJECT_DIR$/MVP/MVP.iml" />
       <module fileurl="file://$PROJECT_DIR$/My2017.iml" filepath="$PROJECT_DIR$/My2017.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyBanner/MyBanner.iml" filepath="$PROJECT_DIR$/MyBanner/MyBanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyCoordinatorLayout/MyCoordinatorLayout.iml" filepath="$PROJECT_DIR$/MyCoordinatorLayout/MyCoordinatorLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyFresco/MyFresco.iml" filepath="$PROJECT_DIR$/MyFresco/MyFresco.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyGlide/MyGlide.iml" filepath="$PROJECT_DIR$/MyGlide/MyGlide.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyJava8/MyJava8.iml" filepath="$PROJECT_DIR$/MyJava8/MyJava8.iml" />
