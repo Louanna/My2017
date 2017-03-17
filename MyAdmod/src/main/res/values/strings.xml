@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyAdmod</string>
+    <string name="hello_world">Hello world</string>
+
+    <!--banner_ad_unit_id即为admob中创建应用的广告单元id-->
+    <!--ca-app-pub-2128163432248238/6211350109-->
+    <string name="banner_ad_unit_id">ca-app-pub-9012808136390937/7135431805</string>
+</resources>

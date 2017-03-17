@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "30141640974",
+    "firebase_url": "https://myadmod-6f603.firebaseio.com",
+    "project_id": "myadmod-6f603",
+    "storage_bucket": "myadmod-6f603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30141640974:android:59233e04a5570abc",
+        "android_client_info": {
+          "package_name": "com.admod.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30141640974-aprumpl2lf61g1q7msomo1uvqqrlm9kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF87ff6XaPOhFRXnd_X-3cM8GfTm2M9UY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
