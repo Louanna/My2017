@@ -6,12 +6,14 @@
       <module fileurl="file://$PROJECT_DIR$/FrescoBase/FrescoBase.iml" filepath="$PROJECT_DIR$/FrescoBase/FrescoBase.iml" />
       <module fileurl="file://$PROJECT_DIR$/FrescoForHierarchy/FrescoForHierarchy.iml" filepath="$PROJECT_DIR$/FrescoForHierarchy/FrescoForHierarchy.iml" />
       <module fileurl="file://$PROJECT_DIR$/FrescoForRound/FrescoForRound.iml" filepath="$PROJECT_DIR$/FrescoForRound/FrescoForRound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lib_Bethel/Lib_Bethel.iml" filepath="$PROJECT_DIR$/Lib_Bethel/Lib_Bethel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lottie/Lottie.iml" filepath="$PROJECT_DIR$/Lottie/Lottie.iml" />
       <module fileurl="file://$PROJECT_DIR$/LottieSample/LottieSample.iml" filepath="$PROJECT_DIR$/LottieSample/LottieSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/MVP/MVP.iml" filepath="$PROJECT_DIR$/MVP/MVP.iml" />
       <module fileurl="file://$PROJECT_DIR$/My2017.iml" filepath="$PROJECT_DIR$/My2017.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyAdmod/MyAdmod.iml" filepath="$PROJECT_DIR$/MyAdmod/MyAdmod.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyBanner/MyBanner.iml" filepath="$PROJECT_DIR$/MyBanner/MyBanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBethel/MyBethel.iml" filepath="$PROJECT_DIR$/MyBethel/MyBethel.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyCollapsingToolbarLayout/MyCollapsingToolbarLayout.iml" filepath="$PROJECT_DIR$/MyCollapsingToolbarLayout/MyCollapsingToolbarLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyCoordinatorLayout/MyCoordinatorLayout.iml" filepath="$PROJECT_DIR$/MyCoordinatorLayout/MyCoordinatorLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyFresco/MyFresco.iml" filepath="$PROJECT_DIR$/MyFresco/MyFresco.iml" />
@@ -31,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/okrx/okrx.iml" filepath="$PROJECT_DIR$/okrx/okrx.iml" />
       <module fileurl="file://$PROJECT_DIR$/okserver/okserver.iml" filepath="$PROJECT_DIR$/okserver/okserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/rvbanner/rvbanner.iml" filepath="$PROJECT_DIR$/rvbanner/rvbanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springactionmenu/springactionmenu.iml" filepath="$PROJECT_DIR$/springactionmenu/springactionmenu.iml" />
     </modules>
   </component>
 </project>
