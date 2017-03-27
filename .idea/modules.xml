@@ -14,11 +14,13 @@
       <module fileurl="file://$PROJECT_DIR$/MyAdmod/MyAdmod.iml" filepath="$PROJECT_DIR$/MyAdmod/MyAdmod.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyBanner/MyBanner.iml" filepath="$PROJECT_DIR$/MyBanner/MyBanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyBethel/MyBethel.iml" filepath="$PROJECT_DIR$/MyBethel/MyBethel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyBottomSheets/MyBottomSheets.iml" filepath="$PROJECT_DIR$/MyBottomSheets/MyBottomSheets.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyCollapsingToolbarLayout/MyCollapsingToolbarLayout.iml" filepath="$PROJECT_DIR$/MyCollapsingToolbarLayout/MyCollapsingToolbarLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyCoordinatorLayout/MyCoordinatorLayout.iml" filepath="$PROJECT_DIR$/MyCoordinatorLayout/MyCoordinatorLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyDamping/MyDamping.iml" filepath="$PROJECT_DIR$/MyDamping/MyDamping.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyFresco/MyFresco.iml" filepath="$PROJECT_DIR$/MyFresco/MyFresco.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyGlide/MyGlide.iml" filepath="$PROJECT_DIR$/MyGlide/MyGlide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyHelloCharts/MyHelloCharts.iml" filepath="$PROJECT_DIR$/MyHelloCharts/MyHelloCharts.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyJava8/MyJava8.iml" filepath="$PROJECT_DIR$/MyJava8/MyJava8.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyMVP/MyMVP.iml" filepath="$PROJECT_DIR$/MyMVP/MyMVP.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyRealm/MyRealm.iml" filepath="$PROJECT_DIR$/MyRealm/MyRealm.iml" />
