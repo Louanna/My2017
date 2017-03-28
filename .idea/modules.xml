@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyMVP/MyMVP.iml" filepath="$PROJECT_DIR$/MyMVP/MyMVP.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyRealm/MyRealm.iml" filepath="$PROJECT_DIR$/MyRealm/MyRealm.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyRecyclerView/MyRecyclerView.iml" filepath="$PROJECT_DIR$/MyRecyclerView/MyRecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySearchBar/MySearchBar.iml" filepath="$PROJECT_DIR$/MySearchBar/MySearchBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyViewPage/MyViewPage.iml" filepath="$PROJECT_DIR$/MyViewPage/MyViewPage.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWeChat/MyWeChat.iml" filepath="$PROJECT_DIR$/MyWeChat/MyWeChat.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWebView/MyWebView.iml" filepath="$PROJECT_DIR$/MyWebView/MyWebView.iml" />

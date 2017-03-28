@@ -30,6 +30,11 @@ buildscript {
 allprojects {
     repositories {
         jcenter()
+
+        //使用MySearchBar时增加
+        maven {
+            url "https://jitpack.io"
+        }
     }
 }
 
