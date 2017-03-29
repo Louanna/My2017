@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyCollapsingToolbarLayout/MyCollapsingToolbarLayout.iml" filepath="$PROJECT_DIR$/MyCollapsingToolbarLayout/MyCollapsingToolbarLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyCoordinatorLayout/MyCoordinatorLayout.iml" filepath="$PROJECT_DIR$/MyCoordinatorLayout/MyCoordinatorLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyDamping/MyDamping.iml" filepath="$PROJECT_DIR$/MyDamping/MyDamping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFileManager/MyFileManager.iml" filepath="$PROJECT_DIR$/MyFileManager/MyFileManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyFresco/MyFresco.iml" filepath="$PROJECT_DIR$/MyFresco/MyFresco.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyGlide/MyGlide.iml" filepath="$PROJECT_DIR$/MyGlide/MyGlide.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyHelloCharts/MyHelloCharts.iml" filepath="$PROJECT_DIR$/MyHelloCharts/MyHelloCharts.iml" />
@@ -26,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyRealm/MyRealm.iml" filepath="$PROJECT_DIR$/MyRealm/MyRealm.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyRecyclerView/MyRecyclerView.iml" filepath="$PROJECT_DIR$/MyRecyclerView/MyRecyclerView.iml" />
       <module fileurl="file://$PROJECT_DIR$/MySearchBar/MySearchBar.iml" filepath="$PROJECT_DIR$/MySearchBar/MySearchBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyVideo/MyVideo.iml" filepath="$PROJECT_DIR$/MyVideo/MyVideo.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyViewPage/MyViewPage.iml" filepath="$PROJECT_DIR$/MyViewPage/MyViewPage.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWeChat/MyWeChat.iml" filepath="$PROJECT_DIR$/MyWeChat/MyWeChat.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWebView/MyWebView.iml" filepath="$PROJECT_DIR$/MyWebView/MyWebView.iml" />

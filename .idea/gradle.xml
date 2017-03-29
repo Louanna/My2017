@@ -23,6 +23,7 @@
             <option value="$PROJECT_DIR$/MyCollapsingToolbarLayout" />
             <option value="$PROJECT_DIR$/MyCoordinatorLayout" />
             <option value="$PROJECT_DIR$/MyDamping" />
+            <option value="$PROJECT_DIR$/MyFileManager" />
             <option value="$PROJECT_DIR$/MyFresco" />
             <option value="$PROJECT_DIR$/MyGlide" />
             <option value="$PROJECT_DIR$/MyHelloCharts" />
@@ -31,6 +32,7 @@
             <option value="$PROJECT_DIR$/MyRealm" />
             <option value="$PROJECT_DIR$/MyRecyclerView" />
             <option value="$PROJECT_DIR$/MySearchBar" />
+            <option value="$PROJECT_DIR$/MyVideo" />
             <option value="$PROJECT_DIR$/MyViewPage" />
             <option value="$PROJECT_DIR$/MyWeChat" />
             <option value="$PROJECT_DIR$/MyWebView" />
